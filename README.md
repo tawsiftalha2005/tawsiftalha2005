@@ -2,12 +2,12 @@
 
 ### 🚀 Software Engineering Student @ Green University of Bangladesh
 
-I am a passionate aspiring Software Engineer who loves solving problems and building efficient systems using C and C++. 
+I am a passionate aspiring Software Engineer who loves solving problems and building efficient systems. 
 
 ---
 - 🎓 Studying **Software Engineering** at [Green University of Bangladesh](https://green.edu.bd/)
 - 👨‍💻 I practice problem solving on [CODEBLOCKS](https://www.codeblocks.org/) & [VS CODE](https://code.visualstudio.com/)
-- 🛠️ - 🛠️ All of my projects are available [here](https://github.com/tawsiftalha2005?tab=repositories) in my repositories.
+- 🛠️ All of my projects are available [here](https://github.com/tawsiftalha2005?tab=repositories) in my repositories.
 - 📫 Reach me at: [tawsiftalha5@gmail.com](mailto:tawsiftalha5@gmail.com)
 ---
 
