@@ -5,22 +5,16 @@
 I am a passionate aspiring Software Engineer who loves solving problems and building efficient systems using C and C++. 
 
 ---
-
-### 💻 Development Environment:
+- 🎓 Studying **Software Engineering** at [Green University of Bangladesh](https://green.edu.bd/)
 - 👨‍💻 I practice problem solving on [CODEBLOCKS](https://www.codeblocks.org/) & [VS CODE](https://code.visualstudio.com/)
 - 🛠️ - 🛠️ All of my projects are available [here](https://github.com/tawsiftalha2005?tab=repositories) in my repositories.
-
+- 📫 Reach me at: [tawsiftalha5@gmail.com](mailto:tawsiftalha5@gmail.com)
 ---
 
 ### 📊 GitHub Stats
 ![Tawsif's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawsiftalha2005&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawsiftalha2005&layout=compact&theme=radical)
 
----
-
-### 📫 Let's Connect:
-- **Email:** [tawsiftalha5@gmail.com](mailto:tawsiftalha5@gmail.com)
-- **Facebook:** [Get in touch](https://www.facebook.com/profile.php?id=100078668647667)
 
 ---
 ## 🛠 Languages & Tools
@@ -28,5 +22,9 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-
+---
+### 🤝 Get in touch:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078668647667)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tawsiftalha2005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tawsiftalha5@gmail.com)
 
