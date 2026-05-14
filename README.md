@@ -8,7 +8,7 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 
 ### 💻 Development Environment:
 - 👨‍💻 I practice problem solving on **CODEBLOCKS** & **VS CODE VISUALIZER**
-- 🛠️ All of my projects are available right here in my repositories.
+- 🛠️ - 🛠️ All of my projects are available [here](https://github.com/tawsiftalha2005?tab=repositories) in my repositories.
 
 ---
 
@@ -23,7 +23,10 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 - **Facebook:** [Get in touch](https://www.facebook.com/profile.php?id=100078668647667)
 
 ---
-*“Turning caffeine into code, one repository at a time.”* ⚡## 🛠 Languages & Tools
+## 🛠 Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+*“Turning caffeine into code, one repository at a time.”* ⚡## 🛠 Languages & Tools
+
+
