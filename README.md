@@ -27,6 +27,6 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-*“Turning caffeine into code, one repository at a time.”* ⚡## 🛠 Languages & Tools
+
 
 
