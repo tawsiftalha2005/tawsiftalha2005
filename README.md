@@ -7,7 +7,7 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 ---
 
 ### 💻 Development Environment:
-- 👨‍💻 I practice problem solving on **CODEBLOCKS** & **VS CODE VISUALIZER**
+- 👨‍💻 I practice problem solving on [CODEBLOCKS](https://www.codeblocks.org/) & [VS CODE](https://code.visualstudio.com/)
 - 🛠️ - 🛠️ All of my projects are available [here](https://github.com/tawsiftalha2005?tab=repositories) in my repositories.
 
 ---
