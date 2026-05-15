@@ -10,13 +10,6 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 - 🛠️ All of my projects are available [here](https://github.com/tawsiftalha2005?tab=repositories) in my repositories.
 - 📫 Reach me at: [tawsiftalha5@gmail.com](mailto:tawsiftalha5@gmail.com)
 ---
-
-### 📊 GitHub Stats
-![Tawsif's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawsiftalha2005&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawsiftalha2005&layout=compact&theme=radical)
-
-
----
 ## 🛠 Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
