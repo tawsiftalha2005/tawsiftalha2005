@@ -19,18 +19,21 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 
 ---
 ### 🤝 Get in touch:
-
 <p align="left">
   <a href="https://github.com/tawsiftalha2005" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" alt="GitHub" width="35" height="35" style="margin-right: 12px; border-radius: 50%;"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://www.facebook.com/profile.php?id=100078668647667" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111393.png" alt="Facebook" width="35" height="35" style="margin-right: 12px; border-radius: 50%;"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+
   <a href="https://www.instagram.com/tawsiftalha5/?hl=en" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="35" height="35" style="margin-right: 12px; border-radius: 50%;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="mailto:mwt.talha@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/542/542689.png" alt="Email" width="35" height="35" style="border-radius: 50%;"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
