@@ -21,19 +21,18 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 ### 🤝 Get in touch:
 <p align="left">
   <a href="https://github.com/tawsiftalha2005" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40"/>
   </a>
-
+  
   <a href="https://www.facebook.com/profile.php?id=100078668647667" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/>
   </a>
-
+  
   <a href="https://www.instagram.com/tawsiftalha5/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
   </a>
-
+  
   <a href="mailto:mwt.talha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
   </a>
 </p>
-
