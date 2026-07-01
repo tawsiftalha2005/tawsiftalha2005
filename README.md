@@ -19,9 +19,19 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 
 ---
 ### 🤝 Get in touch:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078668647667)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tawsiftalha5/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tawsiftalha2005)
-<a href="mailto:mwt.talha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
-</a>
+## 🤝 Let's Get in Touch
+
+<p align="left">
+  <a href="https://github.com/tawsiftalha2005" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100078668647667" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.instagram.com/tawsiftalha5/?hl=en" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="mailto:mwt.talha@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
