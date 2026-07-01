@@ -7,7 +7,13 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 ---
 - 🎓 Studying **Software Engineering** at [Green University of Bangladesh](https://green.edu.bd/)
 - 👨‍💻 I practice problem solving on [CODEBLOCKS](https://www.codeblocks.org/) & [VS CODE](https://code.visualstudio.com/)
+- 🚀 Exploring Software Development.
+- 🧩 Love solving programming challenges
+- 🌱 Constantly learning and improving my skills
+- 🚀 Focused on building efficient and user-friendly applications
+- 🤝 Open to collaboration and learning opportunities
 - 🛠️ All of my projects are available [here](https://github.com/tawsiftalha2005?tab=repositories) in my repositories.
+- 📚 Always learning new technologies
 - 📫 Reach me at: [mwt.talha@gmail.com](mailto:mwt.talha@gmail.com)
 ---
 ## 🛠️ Languages & Tools
