@@ -19,20 +19,18 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 
 ---
 ### 🤝 Get in touch:
-<p align="left">
-  <a href="https://github.com/tawsiftalha2005" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=100078668647667" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.instagram.com/tawsiftalha5/?hl=en" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
-  </a>
-  
-  <a href="mailto:mwt.talha@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
-  </a>
-</p>
+<a href="https://github.com/tawsiftalha2005">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100078668647667">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/tawsiftalha5/?hl=en">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="mailto:mwt.talha@gmail.com">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="45"/>
+</a>
