@@ -19,19 +19,18 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 
 ---
 ### 🤝 Get in touch:
-## 🤝 Let's Get in Touch
 
 <p align="left">
   <a href="https://github.com/tawsiftalha2005" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" alt="GitHub" width="35" height="35" style="margin-right: 12px; border-radius: 50%;"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100078668647667" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111393.png" alt="Facebook" width="35" height="35" style="margin-right: 12px; border-radius: 50%;"/>
   </a>
   <a href="https://www.instagram.com/tawsiftalha5/?hl=en" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40" style="margin-right: 15px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="35" height="35" style="margin-right: 12px; border-radius: 50%;"/>
   </a>
   <a href="mailto:mwt.talha@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/542/542689.png" alt="Email" width="35" height="35" style="border-radius: 50%;"/>
   </a>
 </p>
