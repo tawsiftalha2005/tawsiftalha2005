@@ -37,3 +37,7 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 <a href="mailto:mwt.talha@gmail.com">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="45"/>
 </a>
+
+<a href="https://github.com/tawsiftalha2005">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/>
+</a>
