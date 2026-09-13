@@ -25,7 +25,7 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 ---
 ### 🤝 Get in touch:
 <a href="https://github.com/tawsiftalha2005">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,wordpress&theme=dark" />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100078668647667">
