@@ -15,7 +15,7 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 - 🛠️ All of my projects are available [here](https://github.com/tawsiftalha2005?tab=repositories) in my repositories.
 - 📚 Always learning new technologies
 - 📫 Reach me at: [mwt.talha@gmail.com](mailto:mwt.talha@gmail.com)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tawsiftalha2005.github.io/)
+- - 🌐 **Portfolio:** [tawsiftalha2005.github.io](https://tawsiftalha2005.github.io/)
 ---
 ## 🛠️ Languages & Tools
 
