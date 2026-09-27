@@ -20,7 +20,7 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,c,cpp,java,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,c,cpp,java,wordpress,mysql&theme=dark" />
 </p>
 
 ---
