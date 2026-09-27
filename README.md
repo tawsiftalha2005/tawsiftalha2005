@@ -22,7 +22,9 @@ I am a passionate aspiring Software Engineer who loves solving problems and buil
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,c,cpp,java,wordpress,mysql&theme=dark" />
 </p>
+
 ---
+
 ### 🤝 Get in touch:
 
 <a href="https://www.facebook.com/profile.php?id=100078668647667">
